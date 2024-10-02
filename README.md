@@ -1,2 +1,1 @@
-Privet bro!
---hi!
+FIRST-PROJECT
